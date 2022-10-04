@@ -1,0 +1,19 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+#heading1 {
+    top: 0%;
+    background-color: gray;
+    border: 2px white solid;
+    border-radius: 15px;
+    color: white;
+    font-weight: 100;
+}
+
+canvas{
+    border: 2px solid gray(0, 200, 255);
+    border-radius: 16px;
+    box-shadow: 5px 5px 100px gray;
+}
